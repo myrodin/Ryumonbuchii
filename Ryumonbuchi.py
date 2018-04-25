@@ -143,5 +143,3 @@ class Koromo:
 				worst_count = win_count
 
 		return worst_hand
-
-print(think(['3', '4', '5', '!'], [['1', '!'], ['2', '5']], []))
